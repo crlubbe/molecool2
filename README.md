@@ -1,8 +1,8 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
+[![GitHub Actions Build Status](https://github.com/crlubbe/molecool/workflows/CI/badge.svg)](https://github.com/crlubbe/molecool/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/crlubbe/molecool2/branch/main/graph/badge.svg?token=45UD2QJ59U)](https://codecov.io/gh/crlubbe/molecool2)
 
 
 A Python package for analyzing and visualizing xyz files. This repository is currently under development.
