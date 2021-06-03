@@ -5,6 +5,8 @@
 
 Welcome to molecool's documentation!
 =========================================================
+molecool is a Python package which reads in molecular structure files and makes images.
+The supported file formats are `xyz` and `pdb`.
 
 .. toctree::
    :maxdepth: 2
